@@ -1,0 +1,11 @@
+<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="rotate-ccw" clip-path="url(#clip0_301_2277)">
+<path id="Vector" d="M1.29211 2.69995V5.69995H4.29211" stroke="#F96021" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M2.54711 8.19995C2.87131 9.12014 3.48578 9.91004 4.29794 10.4506C5.1101 10.9912 6.07596 11.2532 7.04997 11.1972C8.02399 11.1411 8.9534 10.77 9.69818 10.1398C10.443 9.50962 10.9627 8.65444 11.1792 7.70313C11.3957 6.75182 11.2972 5.75593 10.8984 4.8655C10.4997 3.97507 9.82238 3.23835 8.96853 2.76633C8.11469 2.29432 7.13057 2.11258 6.16445 2.24851C5.19834 2.38443 4.30257 2.83066 3.61211 3.51995L1.29211 5.69995" stroke="#F96021" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_301_2277">
+<rect width="12" height="12" fill="white" transform="translate(0.792114 0.699951)"/>
+</clipPath>
+</defs>
+</svg>

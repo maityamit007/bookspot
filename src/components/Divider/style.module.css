@@ -1,0 +1,13 @@
+.divider {
+    width: 260px;
+    border-top: 0.5px solid #F96021
+}
+
+.buttonLink {
+    color: #868686;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    margin-top: -12px;
+}

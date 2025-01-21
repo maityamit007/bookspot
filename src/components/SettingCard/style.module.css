@@ -1,0 +1,13 @@
+.cardTitle {
+  color: #3d3d3d;
+  font-size: 16px;
+  line-height: 2px;
+  font-weight: 400;
+  line-height: 30px; /* 125% */
+}
+.cardSubtitle {
+  color: #646464;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}

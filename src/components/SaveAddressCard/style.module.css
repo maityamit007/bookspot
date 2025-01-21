@@ -1,0 +1,22 @@
+.icon {
+  background: rgba(249, 96, 33, 0.15);
+  border-radius: 4px;
+  margin-right: 10px;
+}
+.cardTitle {
+  color: #3d3d3d;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 125% */
+}
+
+.cardSubtitle {
+  overflow: hidden;
+  color: #646464;
+  text-overflow: ellipsis;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

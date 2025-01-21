@@ -1,0 +1,802 @@
+.navbarContainer {
+    background-color: #fff;
+    padding-left: 120px;
+    padding-right: 120px;
+    box-shadow: 0px -1px 1px 0px rgba(0, 0, 0, 0.10) inset;
+}
+
+.navItem {
+    color: #424242;
+}
+
+.navItem:hover {
+    color: var(--primary-color);
+}
+
+.phoneNumber,
+.detialsDescAdditional {
+    color: var(--primary-color) !important;
+}
+
+.exponentTitle {
+    color: #BBB9B8;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 73.129px;
+    font-weight: 600;
+    line-height: 91.412px;
+    letter-spacing: 0.526px;
+    text-transform: capitalize;
+}
+
+.exponentDesc,
+.clientSay,
+.curatedPlansTitle {
+    color: #BBB9B8;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 36px;
+    font-weight: 500;
+    letter-spacing: 0.526px;
+    text-transform: capitalize;
+}
+
+.curatedPlansTitle {
+    color: #0B223D;
+    font-weight: 400;
+    opacity: 0.5;
+}
+
+.clientSay {
+    color: var(--primary-color);
+}
+
+.imgExp {
+    border-radius: 1086px;
+    padding: 5px;
+    background: #f9f9f9;
+}
+
+.detialsDescAdditional {
+    text-align: start !important;
+    display: flex;
+    align-items: start !important;
+}
+
+.loginButton {
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+}
+
+.brandName,
+.detialsDesc {
+    color: var(--primary-color);
+    font-size: 18.228px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.detialsDesc {
+    color: rgba(0, 0, 0, 0.60);
+    text-transform: capitalize;
+    text-align: center;
+    opacity: transparent;
+}
+
+.bannerContainer {
+    background: #fff;
+    padding: 46px 123px;
+}
+
+.businessTitle,
+.designation {
+    color: #0B223D;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.designation {
+    color: #A7A7A7 !important;
+    line-height: 16px !important;
+    letter-spacing: -0.12px !important;
+    font-weight: 500 !important;
+}
+
+.businessContainer {
+    padding: 0px 123px;
+    background-color: #fff;
+}
+
+.serviceContainer,
+.manageYourBussinessContainer,
+.growExponentiallyContainer {
+    padding: 46px 123px;
+    background-color: #fff;
+}
+
+.exponentailDetailContainerBottom,
+.exponentailDetailContainerTop {
+    padding-top: 62.5px;
+    padding-bottom: 62.5px;
+    padding-left: 71px;
+    padding-right: 71px;
+    border: 1px solid var(--primary-color);
+    border-radius: 10px;
+}
+
+.expDesc {
+    color: var(--primary-color);
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.exponentailDetailContainerTop {
+    padding-left: 117px;
+    padding-right: 117px;
+    padding-top: 29px;
+    gap: 2px;
+    padding-bottom: 10px;
+}
+
+.serviceTitle,
+.steps,
+.growBusinessTitle,
+.faqTitle,
+.canHelpTitle,
+.curatedPlansAffordability {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    text-transform: capitalize;
+}
+
+.canHelpTitle {
+    font-size: 36px;
+    color: var(--primary-color) !important;
+}
+
+.curatedPlansAffordability {
+    font-weight: 400 !important;
+    text-align: start !important;
+}
+
+.howItWorksTitle {
+    color: #0B223D;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    text-transform: capitalize;
+}
+
+.steps {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.growBusinessTitle {
+    color: var(--primary-color);
+    padding-top: 80px;
+    padding-bottom: 60px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.faqTitle {
+    color: var(--primary-color);
+    text-align: start;
+}
+
+.detailsTitle {
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    text-transform: capitalize;
+    color: var(--primary-color);
+}
+
+.backgroundContainer {
+    display: flex;
+    width: 858px;
+    height: 373px;
+    padding: 256px 674px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 38px;
+    margin-top: 38px;
+    background: #F1EEEE;
+}
+
+.stepsContainer {
+    padding-top: 44px;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.detailsTitleConatiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.detailsCardContainer {
+    border-radius: 20.03px;
+    border: 1.002px solid var(--primary-color);
+    background: rgba(249, 96, 33, 0.05);
+    padding-top: 37px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.whatHaveConatiner {
+    background-color: #fff;
+    padding: 30px 75px;
+}
+
+.WhatWeHaveForYouTitle {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.iconContainer {
+    gap: 70px;
+}
+
+.imageIconContainer {
+    background: rgba(249, 96, 33, 0.05);
+    border-radius: 100px;
+    padding: 24px;
+}
+
+.imageIconContainer:first-child {
+    background-color: var(--primary-color);
+}
+
+.saloonItemsConatiner {
+    display: flex;
+    justify-content: start;
+}
+
+.saloonItemDesc,
+.faqDesc,
+.prdocutManagerName {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    text-transform: capitalize;
+}
+
+.prdocutManagerName {
+    color: #222 !important;
+    font-weight: 500 !important;
+    line-height: 20px !important;
+    letter-spacing: -0.16px !important;
+}
+
+.faqContainer {
+    padding-top: 121px;
+    padding-right: 120px;
+    padding-bottom: 92px;
+}
+
+.faqDesc {
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+}
+
+.businessContainer {
+    background: #fff;
+    text-align: start;
+}
+
+.letsConnectContainer {
+    background: var(--primary-color);
+    padding: 80px 120px;
+}
+
+.letsConnectCard {
+    padding: 60px 90px;
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.letConnectTitle {
+    text-align: start;
+}
+
+.faqQuestion {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #161616;
+    margin-top: 30px;
+}
+
+.faqAnswer {
+    line-height: 27px;
+    padding: 0;
+    padding-bottom: 3.145%;
+}
+
+.faqQuestionText {
+    margin-right: 3.15%;
+}
+
+.accordion {
+    color: #000;
+    border-radius: 0.25rem;
+}
+
+.accordionContainer {
+    border-bottom: 1px solid #c1c1c1;
+}
+
+.accordionTitle {
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    text-transform: capitalize;
+}
+
+.accordianDesc {
+    color: #757575;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+
+.accordion-header {
+    background-color: #000;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.accordion-button {
+    background-color: #3e92a3;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+}
+
+.digitizeOverallContainer {
+    background: #fff;
+    padding-bottom: 35px;
+}
+
+.digitizeImageContainer {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.digitizeImage {
+    display: flex;
+    position: absolute;
+    right: 180px;
+    border: 6px solid black;
+    padding: 0px;
+    background: #fff;
+    border-radius: 29.4px;
+    box-shadow: 0px 0.66667px 3.50231px 0px rgba(0, 0, 0, 0.01), 0px 2.93333px 7.25185px 0px rgba(0, 0, 0, 0.02), 0px 7.2px 14.4625px 0px rgba(0, 0, 0, 0.02), 0px 13.8667px 28.3481px 0px rgba(0, 0, 0, 0.02), 0px 23.3333px 52.1227px 0px rgba(0, 0, 0, 0.03), 0px 36px 89px 0px rgba(0, 0, 0, 0.04);
+}
+
+.digitizeCardContainer {
+    background: #04265B;
+    width: 1022px;
+    height: 635.91px;
+    flex-shrink: 0;
+}
+
+.digitizeCardInnerContainer {
+    padding: 50px 25px;
+}
+
+.digitizeText,
+.digitizeBrandName,
+.payOnceTitle {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.payOnceTitle {
+    color: #2D3139;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+}
+
+.digitizeBrandName {
+    color: var(--primary-color);
+}
+
+.expDescTitle {
+    color: #000;
+}
+
+.digitizeIcon {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
+.digitizeSubText {
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+.footerContainer {
+    padding: 70px 130px;
+    background-color: #212121;
+    color: white;
+}
+
+.linkItems {
+    color: #757575;
+}
+
+.emailContainer {
+    padding: 50px;
+    background: var(--primary-color);
+    border-radius: 2px;
+}
+
+.emailIconContainer {
+    display: flex;
+    justify-content: start;
+    background: #000;
+    padding: 13px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.emailSubText {
+    font-size: 12px;
+    color: #adadad;
+}
+
+.footerInnerContainer {
+    padding-bottom: 60px;
+    border-bottom: 0.5px solid #424242;
+}
+
+.footerInnerBottomContainer {
+    padding: 50px;
+}
+
+.bannerTitle {
+    color: #000;
+    font-weight: 500;
+    font-size: 45px;
+}
+
+.bannerSubTitle {
+    color: #D0D0D0;
+    font-size: 32.933px;
+    font-weight: 500;
+}
+
+.downloadButtonContainer {
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+}
+
+.bannerButtonContainer {
+    display: flex;
+    margin-right: 100px;
+}
+
+.bannerImageContainer {
+    border-radius: 25px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.bannerForm {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    border-radius: 25px;
+    border: 1px solid #0B223D;
+    padding: 40px;
+    width: 100%;
+}
+
+.bannerFormTitle,
+.bannerFormSubTitle,
+.clientSayTopTitle {
+    color: #0B223D;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.payOnceSubTitle {
+    color: #676D79;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.pricingButton {
+    color: var(--primary-color);
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    display: flex;
+    padding: 5px 11.56px 7px 12px;
+    align-items: flex-start;
+    border-radius: 6px;
+    background: rgba(249, 96, 33, 0.12);
+}
+
+.clientSayTopTitle {
+    color: #757575;
+    font-weight: 400;
+    text-align: center;
+}
+
+.bannerFormSubTitle {
+    color: var(--primary-color);
+}
+
+.accordianButton {
+    padding: 20px 15px;
+    background: #fff;
+    color: #000;
+    text-align: start;
+}
+
+.accordianItem {
+    display: flex;
+    justify-content: space-between;
+}
+
+.companyList {
+    margin-top: 32px;
+}
+
+.secureYourBussinessContainer {
+    padding: 90px;
+    padding-top: 21px;
+    background: #FFE5CE;
+}
+
+.digitizeTitleContainer {
+    padding: 40px;
+    color: #000;
+}
+
+.secureBookSpotTitle,
+.descClient,
+.descClientDesc,
+.subTitleCuratedPlans {
+    color: #666;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.subTitleCuratedPlans {
+    color: #292D34;
+    text-align: start;
+}
+
+.descClient {
+    color: #4E4E4E;
+    font-weight: 600;
+}
+
+.descClientDesc {
+    color: #4E4E4E;
+    font-weight: 400;
+}
+
+.digitizeCard {
+    border-radius: 12px;
+    width: 220px;
+}
+
+.howBookSpotCanHelpContainer {
+    padding-top: 50px;
+    padding-bottom: 39px;
+}
+
+.canHelpCard {
+    border-radius: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.60);
+    opacity: 0.5;
+    background: #FFF;
+    backdrop-filter: blur(50px);
+}
+
+.canHelpTitle {
+    color: #000;
+}
+
+.customList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.customList li:first-child {
+    margin-top: 0px !important;
+}
+
+.customList li::before {
+    content: "\2022";
+    padding-top: 0px;
+    margin-right: 0.5rem;
+    margin-top: 1.5rem;
+    gap: 10px;
+    display: inline-block;
+}
+
+.curatedPlansContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    padding-top: 78px;
+    padding-left: 71px;
+    padding-right: 71px;
+    padding-bottom: 97px;
+}
+
+.whatOurClientsSayContainer {
+    padding: 80px 108px;
+}
+
+.clientCard {
+    display: flex;
+    flex-direction: column;
+    background-color: #f0f0f0;
+    padding: 24px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    text-align: center;
+    position: relative;
+}
+
+.imageContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+}
+
+.contentGrid {
+    position: relative;
+}
+
+.whatClientSayContainer {
+    flex: 1;
+    height: min-content !important;
+}
+
+.clientCardWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.curatedBestPlansContainer {
+    border-radius: 60px;
+    border: 1px solid var(--primary-color);
+}
+
+.payOnceContainer {
+    padding: 80px 57px;
+    padding-top: 0px;
+}
+
+.notReadyToPay {
+    color: #3F4550;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28.8px;
+}
+
+.payOnceLink {
+    color: var(--primary-color);
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.bestValueContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+    text-align: start;
+    gap: 20px;
+    border-radius: 16px;
+    padding: 33px 44px;
+    background: #FFF;
+    box-shadow: 0px 0px 1px 0px rgba(36, 38, 41, 0.24), 0px 1px 2px 0px rgba(36, 38, 41, 0.08), 0px 16px 48px 0px rgba(36, 38, 41, 0.08);
+}
+
+.dollar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #A5ABB6;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 0px;
+}
+
+.buyNowButton {
+    display: flex;
+    max-width: 352px;
+    padding: 30px 93.25px 30px 89.25px;
+    background: var(--primary-color);
+    gap: 11px;
+    border-radius: 48px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    box-shadow: 0px 16px 32px -8px rgba(10, 124, 255, 0.48), 0px 4px 8px 0px rgba(10, 124, 255, 0.12), 0px 2px 6px 0px rgba(10, 124, 255, 0.24), 0px 1px 3px 0px rgba(10, 124, 255, 0.24), 1px 1px 2px 0px rgba(255, 255, 255, 0.24) inset;
+}
+
+.curatedAdditional {
+    text-align: start !important;
+}
+
+.active {
+    border-radius: 18px;
+    background: #FFF;
+    box-shadow: 0px 16px 48px 0px rgba(10, 124, 255, 0.16), 0px 4px 12px 0px rgba(10, 124, 255, 0.16), 0px 0px 0px 4px #0A7CFF;
+}
+
+.svgContainer{
+    position: relative;
+}
+
+.textOverSvg {
+    color: #fff;
+    padding: 4px;
+    font-weight: 400;
+    position: absolute;
+    z-index: 2;
+}

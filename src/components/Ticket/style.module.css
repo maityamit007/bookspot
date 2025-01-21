@@ -1,0 +1,100 @@
+.cardConatiner {
+    border-radius: 8px;
+    gap: 12px;
+    background: #FFFFFF;
+    border: var(--primary-border)
+}
+
+.brandName {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F96021;
+}
+
+.titleText {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+
+.titleDesc {
+    color: #868686;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    margin-top: -12px;
+}
+
+.tokenCircle {
+    border: var(--primary-border);
+    border-radius: 100px;
+    background-color: var(--primary-color);
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tokenNumber {
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.tokenText {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.pinDesc {
+    color: #868686;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+}
+
+.queueText {
+    color: #000000;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+}
+
+.semiCircle,.semiCircleRight {
+    width: 54px;
+    height: 54px;
+    border: 0.5px solid #F96021;
+    border-left-color: #FFFFFF;
+    border-radius: 100px;
+    background: #FFFFFF;
+    border-top-color: #FFFFFF;
+    transform: rotate(-45deg);
+    margin-right: 0.5px; 
+}
+
+.semiCircleRight{
+    border-right-color: #FFFFFF;
+    margin-left: -11px; 
+    transform: rotate(45deg);
+    border-left-color: #F96021;
+}
+
+.semiCircleContainer{
+    top: 39.3%;
+}

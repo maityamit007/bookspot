@@ -1,0 +1,24 @@
+.helpCard {
+  background: #f9f9f9;
+  color: #f96021;
+  font-size: 24px;
+  font-style: normal;
+  line-height: 1.5; /* 70% */
+}
+
+.call {
+  border: 1px #f96021 solid;
+  border-radius: 6px;
+  color: #f96021;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.2; /* 125% */
+}
+.helpDEscription {
+  color: #0b223d;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2; /* 125% */
+}

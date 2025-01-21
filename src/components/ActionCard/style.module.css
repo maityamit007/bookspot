@@ -1,0 +1,38 @@
+.cardConatiner {
+    border-radius: 12px;
+    gap: 12px;
+    background: #FFFFFF;
+    border: 1px solid #D1D1D1
+}
+
+.titleText {
+    color: #f96021;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+
+.titleDescription {
+    color: #a1a1a1;
+    font-size: 13px;
+    text-align: center;
+    font-weight: 400;
+    width: 205px;
+    height: 81px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 19.5px;
+}
+
+.timerText{
+    width: 260px;
+    height: 18px;
+}
+
+.addtionalCSS{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
